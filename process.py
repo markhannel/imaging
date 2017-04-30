@@ -1,4 +1,4 @@
-from h5video import h5video
+from lab_io.h5video import h5video
 import numpy as np
 
 def vmedian(h5vid, skip=10):
